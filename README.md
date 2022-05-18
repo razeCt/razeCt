@@ -2,7 +2,7 @@
 - I’m interested in moblie coding atm;
 - I’m currently learning React Native (for the time being, I am new to it);
 - I’m looking to collaborate on nothing for now;
-- How to reach me: Not available (yet, I think...).
+- How to reach me: Not available (not feeling like I want to share my social media for now).
 
 <!---
 razeCt/razeCt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
