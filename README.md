@@ -1,7 +1,7 @@
 - Hi, I’m @razeCt;
 - I’m interested in website coding;
-- Currently learning HTML, CSS and JS (front-end development)
-- Not accepting any requests / comissions (again, for the time being);
+- Currently learning / studying HTML, CSS and JS (front-end development)
+- Not accepting any requests / comissions (for the time being);
 - How to reach me: Not available (still not feeling like I want to share my social media for now).
 
 <!---
